@@ -1,4 +1,4 @@
-# 🤖 ULBS Chatbot Assistant - Code4ULBS
+# 🤖 ULBS Chatbot Assistant 
 
 ![ULBS Shield](https://www.ulbsibiu.ro/wp-content/uploads/2017/10/logo_ulbs_blue.png)
 
